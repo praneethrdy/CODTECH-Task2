@@ -46,7 +46,11 @@ A modern, responsive, and visually appealing portfolio website to showcase my sk
 - Improved my **responsive design skills** with Tailwind CSS.  
 - Gained valuable experience in creating a professional portfolio to showcase my work.
 
-  SCREENSHOTS : 
+  SCREENSHOTS :
+  
+  ![image1](https://github.com/user-attachments/assets/b03fbf94-685e-4733-8c47-1de935d0382b)
+
+
 
 
 
