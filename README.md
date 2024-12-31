@@ -48,7 +48,16 @@ A modern, responsive, and visually appealing portfolio website to showcase my sk
 
   SCREENSHOTS :
   
-  ![image1](https://github.com/user-attachments/assets/b03fbf94-685e-4733-8c47-1de935d0382b)
+![image1](https://github.com/user-attachments/assets/b03fbf94-685e-4733-8c47-1de935d0382b)
+
+![image2](https://github.com/user-attachments/assets/9de171a6-22a7-40a9-8d25-eead68cc7b5a)
+  
+![image3](https://github.com/user-attachments/assets/fbbbf03f-930f-4f62-ba49-fa7a2778f117)
+
+![image4](https://github.com/user-attachments/assets/fd3736ec-213b-4d76-9951-0b3819c7b944)
+
+![image5](https://github.com/user-attachments/assets/70bbf09a-d498-4e09-9dc8-7d7f4e605d6d)
+
 
 
 
